@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Information/Philosophy.md
-      - School Information/School History.md
       - School Information/.keep
+      - School Information/School History.md
+      - School Information/Philosophy.md
