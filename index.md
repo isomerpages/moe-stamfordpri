@@ -39,4 +39,10 @@ sections:
         on the assessment schedule and scope. Thank you.
       button: Click here
       url: /partners-1/for-parents/assessment-information
+  - infobar:
+      title: " Info on Vaccination Matters for Parents "
+      subtitle: News & Announcements
+      description: Click below for more information.
+      button: Click here
+      url: /partners-1/for-parents/resources-for-parents/update-on-covid-matters
 ---
