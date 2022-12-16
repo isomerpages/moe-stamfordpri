@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: News & Announcements
           description: View All
-          url: https://staging.d27jw8qokw45j8.amplifyapp.com/general/announcements
+          url: /news-n-announcements
   - infopic:
       title: Stamford Primary Commemoration Night
       subtitle: News and Announcements
