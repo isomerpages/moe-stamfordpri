@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Executive Committee.md
       - School Information/.keep
       - School Information/School History.md
       - School Information/Philosophy.md
@@ -10,3 +9,4 @@ collections:
       - School Information/School Crest and Song.md
       - School Information/School Rules and Regulations.md
       - Principal's Message.md
+      - Executive Committee.md
