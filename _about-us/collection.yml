@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Executive Committee.md
       - School Information/.keep
       - School Information/School History.md
       - School Information/Philosophy.md
