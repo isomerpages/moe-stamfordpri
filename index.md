@@ -45,4 +45,11 @@ sections:
       description: Click below for more information.
       button: Click here
       url: /partners-1/for-parents/resources-for-parents/update-on-covid-matters
+  - infobar:
+      title: "Virtual School Library "
+      subtitle: News & Announcements
+      description: Check out our virtual school library to support your child/ward
+        learning. Happy reading!
+      button: Click here
+      url: /links
 ---
