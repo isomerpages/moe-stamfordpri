@@ -106,3 +106,22 @@ Don’ts: <Br>
 * Keep homework and anything else that you will need for revision or practice at home.
 * Keep pets.
 * Keep toys or electronic gaming devices.
+
+### Mobile Device Policy & Prohibited Items
+
+<u><Strong>Handphone Policy</strong></u><br>
+While we discourage students from bringing mobile devices, we understand that some parents / guardians prefer to have their children carry mobile devices for the convenience of communication and safety, especially children travelling alone on public transport or commuting long distances to school. Kindly refer to the points below which are designed to provide students and parents/guardians with guidelines and instructions on the appropriate use of mobile devices during school hours.
+* The mobile device must be labelled with student’s name and class.
+* The mobile device must be switched off and kept out of sight at all times.
+* The use of the mobile device is restricted to before and after-school at the parent waiting area only and/or when permission is granted by a teacher/school staff.  Restriction on the use of mobile device applies to students during all school activities including excursions, camps and co-curriculum activities.
+* Students will use the mobile devices solely for communication and not for playing games, social media, taking photos or videos, or surfing the internet.
+* The school reserves the right to check on mobile devices.
+* The school will not be responsible for the loss or damage of the mobile device.
+* No mobile devices will be allowed during all assessment and in examination rooms. Students are to surrender their mobile devices (in the event they bring it to school on any examination day) to the teacher in the classroom. The mobile devices will be returned to the students after all the examinations for that day.
+* Students who fail to abide by the rules will have their mobile devices (including SIM card) confiscated. Confiscated mobile devices can only be collected by the student’s parent/guardian.
+* Repeat offenders will be barred from bringing any mobile device to school.
+
+_Including, but not limited to, mobile phones, tablets, laptops and smart watches._
+
+<u><strong>Prohibited Items</strong></u>
+* All pupils are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
