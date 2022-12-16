@@ -2,13 +2,13 @@ title: Stamford Primary School
 url: https://stamfordpri.moe.edu.sg
 favicon: /images/logo.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#0c0c67"
+  secondary-color: "#eae631"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#727060"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#777cbe"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
