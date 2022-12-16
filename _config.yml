@@ -3,7 +3,7 @@ url: https://stamfordpri.moe.edu.sg
 favicon: /images/logo.png
 colors:
   primary-color: "#0c0c67"
-  secondary-color: "#eae631"
+  secondary-color: "#d8d42f"
   media-colors:
     - title: media-color-one
       color: "#727060"
