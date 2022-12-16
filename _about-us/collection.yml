@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/Executive Committee.md
       - Our People/.keep
       - School Information/.keep
       - School Information/School History.md
