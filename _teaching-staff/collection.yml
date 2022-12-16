@@ -2,5 +2,6 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Primary 4.md
       - Primary 2.md
       - Primary 3.md
