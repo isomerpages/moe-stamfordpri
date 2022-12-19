@@ -97,7 +97,8 @@ As a reflection of their love for the Arts, our young artists from the school’
 
 <u><strong>S is for Space</strong></u>
 
-![](/images/3-2.png)
+<img src="/images/3-2.png" 
+    style="width:70%">
 
 “In our artwork, we hope to capture the meaning of 'Space' in our everyday lives - 'space' in the literal sense, as an exploration, space that is unoccupied and space for sweet memories. We have also arranged our artwork to form the letter 'S' to celebrate the beauty of space.” – P4/1 Cindy Lim, Jessie Marguerite Go De Guzman, Ghan Lu Hong from P4/1, Lina Rosli, Igarashi ( Huot ) Noemie from P3/1, 2017   
   
