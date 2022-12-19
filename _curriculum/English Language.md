@@ -39,6 +39,7 @@ The Extensive Reading Programme, Read Every Day (RED), aims to ignite the passio
 
 ![](/images/2%20eng.jpg)
 
-![](/images/3%20eng.jpg)
+<img src="/images/3%20eng.jpg" 
+    style="width:70%">
 
 ![](/images/4%20eng.png)
