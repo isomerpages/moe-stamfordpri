@@ -28,3 +28,26 @@ Stamford's Aesthetics Programme takes on a progressive and developmental approac
 | **Middle Primary** | • Learning Journey<br>• Museum-Based Learning | • Learning Journey<br>• Ukulele<br>• Digital Music |
 | **Upper Primary** | • Ceramics<br>• Digital Art | • Pop Band<br>• Angklung |
 | | |
+
+----
+
+### Singapore Youth Festival
+
+**Singapore Youth Festival 2019**
+
+<u>Artist and Citizenship</u>
+
+As a reflection of their love for the Arts, our young artists from the school’s Art Club worked together, brainstormed, planned and expressed themselves in their own creative ways to produce the following art pieces for the Singapore Youth Festival Art Exhibition 2019.
+
+<center>
+<strong>Category A:</strong> <br>
+	<u><i>‘Onward Singapore!’</i></u>
+
+</center>
+
+_‘We love the Merlion! Its body is half fish to remind us of our beginnings as a fishing village and half lion to represent the ‘Singa’ in ‘Singapore’. There are many colourful Merlions protecting our island, just like the many different races here working together for a better Singapura!’_
+
+<figure>
+<img src="/images/syf%201.jpg">
+<figcaption> <strong> Azaana (P2/1), Stella Lim (P2/2), Wu Lekang (P2/3), Chanel Tan (P2/3) and Selina Elena (P2/4) </strong> </figcaption>
+</figure>
