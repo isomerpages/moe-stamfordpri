@@ -51,3 +51,17 @@ _‘We love the Merlion! Its body is half fish to remind us of our beginnings as
 <img src="/images/syf%201.jpg">
 <figcaption> <strong> Azaana (P2/1), Stella Lim (P2/2), Wu Lekang (P2/3), Chanel Tan (P2/3) and Selina Elena (P2/4) </strong> </figcaption>
 </figure>
+
+<center>
+<strong>Category B: </strong> <br>
+<i>‘Vanda, Oh Vanda!’</i>
+</center>
+	
+_‘Orchids are very hardy plants. Given the right conditions, orchids can even grow out of the tightest cracks. We are like the orchids. Always striving to grow as we adapt to the various changes around us.’_
+
+<figure>
+<img src="/images/syf%202.jpg">
+<figcaption> <strong> Stella Joben (P4/1), Foo Maureen (P4/1) & Nahlah Amal (P4/1) </strong> </figcaption>
+</figure>
+
+**Singapore Youth Festival 2018**
