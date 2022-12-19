@@ -8,9 +8,11 @@ third_nav_title: Mother Tongue
 
 We believe that every child can be nurtured to have a love for Mathematics and be developed to be an analytical thinker in his or her own way. Through a variety of learning experiences, we want to develop in every student a deep understanding of mathematical concepts, and to be able to make sense of various mathematical ideas as well as their connections and applications in the real world.
 
-![](/images/MathsPhilosophy1.jpg)
+<img src="/images/MathsPhilosophy1.jpg" 
+    style="width:50%">
 
-![](/images/MathsPhilosophy2.jpg)
+<img src="/images/MathsPhilosophy2.jpg" 
+    style="width:50%">
 
 ### Programme
 
@@ -37,4 +39,4 @@ The maths trails for P1 to P4 aims at providing students with the experience of 
     style="width:80%">
 
 <img src="/images/MathsProgramme3.jpg" 
-    style="width:60%">
+    style="width:30%">
