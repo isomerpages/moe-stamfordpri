@@ -91,7 +91,8 @@ As a reflection of their love for the Arts, our young artists from the school’
 
 <u><strong>Void Space</strong></u>
 
-![](/images/3-1.png)
+<img src="/images/3-1.png" 
+    style="width:70%">
 
 “When I think of space, I think of emptiness, just like the void left behind by the residents of Rochor Centre. The centre used to be buzzing with activities but now it has been vacated to give way to newer development.” - Goh Kang Kiat P6/2, 2017  
 
