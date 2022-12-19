@@ -42,7 +42,9 @@ We also support the development of leadership skills in our Science & Environmen
 
 ![](/images/science%205.jpeg)
 
-![](/images/science%206.jpeg)
+<img src="/images/science%206.jpeg" 
+    style="width:50%">
+
 
 ### Achievement
 
