@@ -1,5 +1,0 @@
-collections:
-  chinese-language:
-    output: true
-    order:
-      - Chinese Language.md
