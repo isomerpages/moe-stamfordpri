@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Virtual School Tour.md
       - School Information/.keep
       - School Information/School History.md
       - School Information/Philosophy.md
@@ -19,3 +18,4 @@ collections:
       - Gallery/2021.md
       - Gallery/2022.md
       - Contact Us.md
+      - Virtual School Tour.md
