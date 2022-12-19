@@ -38,3 +38,10 @@ Using storytelling in the classroom is one way to address literacy development b
 <img src="/images/4%20chinese.jpg">
 <figcaption> Teacher generated discussions during the story telling session, helping the students to comprehend the story before they read independently. </figcaption>
 </figure>
+
+![](/images/5%20chinese.jpg)
+
+<img src="/images/MTL%20FN%20Story%20sharing.jpeg" 
+    style="width:60%">
+
+![](/images/CPES%20shadow%20puppet.jpeg)
