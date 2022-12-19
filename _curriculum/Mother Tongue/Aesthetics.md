@@ -64,4 +64,44 @@ _‘Orchids are very hardy plants. Given the right conditions, orchids can even 
 <figcaption> <strong> Stella Joben (P4/1), Foo Maureen (P4/1) & Nahlah Amal (P4/1) </strong> </figcaption>
 </figure>
 
-**Singapore Youth Festival 2018**
+**Singapore Youth Festival 2018** <br>
+Singapore Youth Festival Arts Presentation (S.Y.F.A.P) 2018
+
+This year, three of our performing groups, Choir, Chinese Dance, and International Dance had taken part in the SIngapore Youth Festival Arts Presentation. 
+
+Our performers had started preparing for the festival since last year. We are proud to announce that the tremendous sense of resilience they had shown over the past few months of practices had resulted in beautiful and vibrant performances during SYFAP with the following results: 
+
+| Achievement | Performing Art CCA Groups |
+|---|---|
+| Certificate of Commendation | Choir | 
+| Certificate of Accomplishment | Chinese Dance <br> International Dance | 
+| | |
+
+We would like to thank all students, teachers, instructors, and parent volunteers for all the effort put into making this a truly memorable experience. 
+
+Well done, Stamfordians! 
+
+Please enjoy some of the beautiful moments captured on camera: 
+
+![](/images/syf_2018%20(1).jpg)
+
+**Singapore Youth Festival 2017** <br>
+Art Exhibition <br>
+As a reflection of their love for the Arts, our young artists from the school’s Art Club have used their talent to put their best effort into producing the following art pieces, “Void Space” and “S is for Space” which were both submitted for the SYF Art Exhibition 2017 based on the theme of “Artist and Space”.
+
+<u><strong>Void Space</strong></u>
+
+![](/images/3-1.png)
+
+“When I think of space, I think of emptiness, just like the void left behind by the residents of Rochor Centre. The centre used to be buzzing with activities but now it has been vacated to give way to newer development.” - Goh Kang Kiat P6/2, 2017  
+
+<u><strong>S is for Space</strong></u>
+
+![](/images/3-2.png)
+
+“In our artwork, we hope to capture the meaning of 'Space' in our everyday lives - 'space' in the literal sense, as an exploration, space that is unoccupied and space for sweet memories. We have also arranged our artwork to form the letter 'S' to celebrate the beauty of space.” – P4/1 Cindy Lim, Jessie Marguerite Go De Guzman, Ghan Lu Hong from P4/1, Lina Rosli, Igarashi ( Huot ) Noemie from P3/1, 2017   
+  
+Months of painstaking effort in producing these art pieces were duly recognised as we are proud to announce that both art pieces are included in an online gallery, of which “S is for Space” was even selected to be one of the physical exhibits.  
+Throughout the process, our budding artists have learnt and demonstrated the ENRICH school values which will have a profound influence in building a strong, resilient character in our pupils. We hope that this experience will help them develop an entrepreneurial dare to use the boundlessness of their creative minds to enrich the lives of others as well as themselves.   
+  
+To view the physical art piece, do visit the exhibition at \*SCAPE The Ground Theatre, 6th July to 16th July 2017. It will be open for viewing from 10 a.m. to 10 p.m. daily. Alternatively, more information about the art pieces can also be viewed in an online gallery at the following website: [https://www.singaporeyouthfestival.sg/art-exhibition/the-online-art-gallery](https://www.singaporeyouthfestival.sg/art-exhibition/the-online-art-gallery)
