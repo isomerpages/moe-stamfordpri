@@ -2,5 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Programme for Active Learning (PAL).md
       - Co Curricular Activity (CCA).md
       - Character and Citizenship Education.md
