@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - ICT.md
       - English Language.md
       - Mother Tongue/.keep
       - Mother Tongue/Mother Tongue.md
@@ -11,3 +10,4 @@ collections:
       - Mother Tongue/Science.md
       - Mother Tongue/Aesthetics.md
       - Physical and Health Education.md
+      - ICT.md
