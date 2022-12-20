@@ -2,6 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - For Parents/Administrative Forms.md
-      - For Parents/Assessment Information.md
       - For Parents/.keep
+      - For Parents/Assessment Information.md
+      - For Parents/Administrative Forms.md
