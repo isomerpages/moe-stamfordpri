@@ -2,8 +2,8 @@ collections:
   partners:
     output: true
     order:
-      - For Parents/Family Matters @ Stamford.md
       - For Parents/.keep
       - For Parents/Assessment Information.md
       - For Parents/Administrative Forms.md
       - For Parents/Financial Assistance Forms.md
+      - For Parents/Family Matters @ Stamford.md
