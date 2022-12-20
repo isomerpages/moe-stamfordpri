@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - ICT.md
       - English Language.md
       - Mother Tongue/.keep
       - Mother Tongue/Mother Tongue.md
