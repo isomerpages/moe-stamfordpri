@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - School Suppliers.md
       - For Parents/.keep
       - For Parents/Assessment Information.md
       - For Parents/Administrative Forms.md
@@ -19,3 +18,4 @@ collections:
       - Parent Support Group/Parent Support Group Registration.md
       - School Advisory Committee.md
       - Student Care Centre.md
+      - School Suppliers.md
