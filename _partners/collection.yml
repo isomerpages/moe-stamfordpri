@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - For Parents/Changes in PSLE.md
       - For Parents/.keep
       - For Parents/Assessment Information.md
       - For Parents/Administrative Forms.md
@@ -12,3 +11,4 @@ collections:
       - For Parents/Homework Policy.md
       - For Parents/Monthly Newsletter.md
       - For Parents/Resources For Parents.md
+      - For Parents/Changes in PSLE.md
