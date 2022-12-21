@@ -63,3 +63,17 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) f
 | How Do I Keep Myself Safe? | What is Safety?<br>(30 min) | • know what sexual abuse is<br>• know that there are laws in Singapore that can protect them from sexual abuse<br>• know their rights in keeping themselves safe from sexual abuse | Term 4 Week 9 |
 |  | Stop It! Run! Tell!<br>(30 min) | • protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>• know their responsibilities in minimising the risk of sexual harm | Term 4 Week 9 |
 | | |
+
+<center><strong>Primary 6</strong></center>
+
+| UNIT | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
+|---|---|---|---|
+| Are We More Than Friends? | Who Are My Friends?<br>(30 min) | • identify the qualities of a healthy friendship<br>• recognise the importance of making wise choices in friendship | Term 2 Week 10 |
+|  | Am I A Good Friend?<br>(30 min) | • identify the qualities that they have as a friend<br>• recognise the importance of developing in oneself the qualities of a good friend | Term 2 Week 10 |
+|  | What is Love?<br>(30 min) | • identify the characteristics of love and infatuation<br>• distinguish between the characteristics of love versus infatuation<br>• identify strong feelings arising from infatuation | Term 2 Week 10 |
+|  | Am I Falling In Love?<br>(30 min) | • manage strong feelings arising from infatuation<br>• identify ways to manage and cope with teasing from peers | Term 2 Week 10 |
+|  | Main Task<br> (30 min) | Description of the Main Task:<br><br>Students are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing. | Term 2 Week 10 |
+| Friends or Foes? | Are You Really My Friend?<br>(30 min) | • identify the pros and cons of forming relationships through social networking websites<br>• know ways to keep themselves safe when using social networking websites | Term 4 Week 5 |
+|  | Is It All Safe?<br>(30 min) | • know that some information (like pornography) received through the Internet may be harmful<br>• know ways to keep themselves safe when using social networking websites or the Internet | Term 4 Week 5 |
+|  | Main Task<br> (30 min) | Description of the Main Task:<br><br>Students are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide students with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility. | Term 4 Week 5 |
+| | |
