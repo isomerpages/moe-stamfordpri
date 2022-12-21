@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - For Parents/Resources For Parents.md
       - For Parents/.keep
       - For Parents/Assessment Information.md
       - For Parents/Administrative Forms.md
@@ -11,3 +10,4 @@ collections:
       - For Parents/Home Based Learning.md
       - For Parents/Homework Policy.md
       - For Parents/Monthly Newsletter.md
+      - For Parents/Resources For Parents.md
