@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Student Care Centre.md
       - For Parents/.keep
       - For Parents/Assessment Information.md
       - For Parents/Administrative Forms.md
