@@ -8,5 +8,7 @@ links:
     collection: co-curriculum
   - title: Partners
     collection: partners
+  - title: Links
+    url: /links
   - title: Contact Us
     url: /contact-us/
