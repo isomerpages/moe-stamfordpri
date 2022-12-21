@@ -4,3 +4,4 @@ permalink: /partners/school-advisory-committee/
 description: ""
 third_nav_title: Parent Support Group
 ---
+![](/images/sac.jpg)
