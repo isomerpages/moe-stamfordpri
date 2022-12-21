@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Parent Support Group/.keep
       - For Parents/.keep
       - For Parents/Assessment Information.md
       - For Parents/Administrative Forms.md
@@ -14,3 +13,4 @@ collections:
       - For Parents/Resources For Parents.md
       - For Parents/Changes in PSLE.md
       - For Parents/Sexuality Education.md
+      - Parent Support Group/.keep
