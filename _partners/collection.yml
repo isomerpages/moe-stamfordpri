@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - School Advisory Committee.md
       - For Parents/.keep
       - For Parents/Assessment Information.md
       - For Parents/Administrative Forms.md
@@ -17,3 +16,4 @@ collections:
       - Parent Support Group/.keep
       - Parent Support Group/Parent Support Group.md
       - Parent Support Group/Parent Support Group Registration.md
+      - School Advisory Committee.md
