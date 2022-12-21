@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - For Parents/Sexuality Education.md
       - For Parents/.keep
       - For Parents/Assessment Information.md
       - For Parents/Administrative Forms.md
