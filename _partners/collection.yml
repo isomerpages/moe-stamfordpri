@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - For Parents/Sexuality Education.md
       - For Parents/.keep
       - For Parents/Assessment Information.md
       - For Parents/Administrative Forms.md
@@ -13,3 +12,4 @@ collections:
       - For Parents/Monthly Newsletter.md
       - For Parents/Resources For Parents.md
       - For Parents/Changes in PSLE.md
+      - For Parents/Sexuality Education.md
