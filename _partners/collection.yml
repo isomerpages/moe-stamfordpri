@@ -2,10 +2,10 @@ collections:
   partners:
     output: true
     order:
-      - For Parents/Homework Policy.md
       - For Parents/.keep
       - For Parents/Assessment Information.md
       - For Parents/Administrative Forms.md
       - For Parents/Financial Assistance Forms.md
       - For Parents/Family Matters @ Stamford.md
       - For Parents/Home Based Learning.md
+      - For Parents/Homework Policy.md
