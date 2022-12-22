@@ -22,7 +22,7 @@ sections:
       description: Dear all, click below for more information about Stamford Primary
         School Commemoration Night happening on 18th November 2022.
       button: Click here
-      url: /partners-1/for-parents/announcements/commemoration-night
+      url: /commemoration-night/
       image: /images/Com Night_school website publicity.jpg
       alt: Image alt text
   - infobar:
