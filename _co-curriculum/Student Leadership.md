@@ -6,7 +6,7 @@ description: ""
 ### Goals
 
 <img src="/images/Untitled-1.jpg" 
-    style="width:70%">
+    style="width:50%">
 
 Stamford Primary School believes in providing and creating leadership opportunities for every student and in nurturing them to become exemplary students.  The school has put in place a leadership structure to develop the leadership competencies of our student leaders through three levels of leadership dimensions. 
 
