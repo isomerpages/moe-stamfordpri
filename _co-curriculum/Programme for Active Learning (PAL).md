@@ -19,12 +19,17 @@ Using key strategies such as cooperative learning, experiential learning and mot
 
 The core of each lesson facilitates learning in the area of working together respectfully and enhancing interpersonal communication. For example, students learn to manage disagreements through appropriate words and actions while working on a common goal.
 
-![](/images/PAL%201.jpeg)
+<img src="/images/PAL%201.jpeg" 
+    style="width:60%">
 
-![](/images/PAL%204.jpeg)
+<img src="/images/PAL%204.jpeg" 
+    style="width:60%">
 
-![](/images/PAL%202.jpeg)
+<img src="/images/PAL%202.jpeg" 
+    style="width:60%">
 
-![](/images/PAL%203.jpeg)
+<img src="/images/PAL%203.jpeg" 
+    style="width:40%">
 
-![](/images/PAL%205.jpeg)
+<img src="/images/PAL%205.jpeg" 
+    style="width:60%">
