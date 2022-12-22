@@ -74,21 +74,25 @@ The following tables show the allocation of time for homework for the different 
 
 <u><Strong>School Term</strong></u>
 
-![](/images/1%20(3).jpg)
+<img src="/images/1%20(3).jpg" 
+    style="width:90%">
 
 \*_As school ends at 2.50 pm, and 5 pm for students with CCA on Mondays, teachers would exercise discretion when assigning homework._
 
 <u><strong>School Term Holiday</strong></u>
 
-![](/images/2%20(2).jpg)
+<img src="/images/2%20(2).jpg" 
+    style="width:90%">
 
 <u><strong>Holiday</strong></u>
 
-![](/images/3%20(2).jpg)
+<img src="/images/3%20(2).jpg" 
+    style="width:90%">
 
 * Assignments (EL, MA, SC & MT) should be submitted on the following school day. If homework given requires more than the assigned duration for the day to complete, the date of submission can be moderated accordingly. For example, if English homework given at P1 requires about 30 minutes to be completed, an extra day can be given for the student to submit the homework.
 * Assignments (PHE, Art, Music, SS, CCE) could be submitted in one week’s time.
 
 <u><strong> Summary Table</strong></u>
 
-![](/images/4%20(3).jpg)
+<img src="/images/4%20(3).jpg" 
+    style="width:90%">
