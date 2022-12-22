@@ -24,10 +24,14 @@ Watch the video to find out how both the current and new PSLE scoring systems wo
 
 In a two-part series, MOE's Deputy Director-General of Education addresses the top questions parents have asked about the PSLE changes.
 
-<center><u>Part 1 </u></center>
+<center>
+	
+<u>Part 1 </u>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z2neOdzIJd0?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<center><u>Part 2 </u></center>
+<u>Part 2 </u>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bcgIBgi20qY?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+</center>
