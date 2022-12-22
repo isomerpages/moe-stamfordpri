@@ -20,8 +20,10 @@ We are confident that FamilyMatters@Stamford Primary will go a long way to make 
 
 **Triple P - Positive Parenting Program**
 
-![](/images/Triple%20P.jpg)
+<img src="/images/Triple%20P.jpg" 
+    style="width:60%">
 
-![](/images/Triple%20P%20Reverse.jpg)
+<img src="/images/Triple%20P%20Reverse.jpg" 
+    style="width:60%">
 
 To find out more information on the workshop, click [here](/files/Triple%20P%20Level%202.pdf).
