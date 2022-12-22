@@ -3,7 +3,6 @@ title: English Language
 permalink: /curriculum/english-language/
 description: ""
 ---
-
 ### Goals
 
 The EL Department supports the school’s vision **_Stamfordians of Competence and Character, who Care and Contribute_** by having the following foci:
@@ -36,11 +35,14 @@ The Extensive Reading Programme, Read Every Day (RED), aims to ignite the passio
 
 ### Our English Language learners in action!
 
-![](/images/1%20eng.jpg)
-
-![](/images/2%20eng.jpg)
-
-<img src="/images/3%20eng.jpg" 
+<img src="/images/1%20eng.jpg" 
     style="width:70%">
 
-![](/images/4%20eng.png)
+<img src="/images/2%20eng.jpg" 
+    style="width:70%">
+
+<img src="/images/3%20eng.jpg" 
+    style="width:60%">
+
+<img src="/images/4%20eng.png" 
+    style="width:70%">
