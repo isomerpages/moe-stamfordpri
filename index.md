@@ -31,20 +31,20 @@ sections:
       description: Parents/guardians of P2 and P3 can click below for more information
         on Home-Based Learning between 17-20 Oct 2022. Thank you.
       button: Click here
-      url: /partners-1/for-parents/home-based-learning
+      url: /partners/for-parents/home-based-learning
   - infobar:
       title: 2022 Assessment Schedule
       subtitle: News & Announcements
       description: Dear parents/guardians and students, click below to find out more
         on the assessment schedule and scope. Thank you.
       button: Click here
-      url: /partners-1/for-parents/assessment-information
+      url: /partners/for-parents/assessment-information
   - infobar:
       title: " Info on Vaccination Matters for Parents "
       subtitle: News & Announcements
       description: Click below for more information.
       button: Click here
-      url: /partners-1/for-parents/resources-for-parents/update-on-covid-matters
+      url: /partners/for-parents/resources-for-parents/update-on-covid-matters
   - infobar:
       title: "Virtual School Library "
       subtitle: News & Announcements
