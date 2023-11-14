@@ -1,0 +1,14 @@
+logo: /images/logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Curriculum
+    collection: curriculum
+  - title: Co-Curriculum
+    collection: co-curriculum
+  - title: Partners
+    collection: partners
+  - title: Links
+    url: /links
+  - title: Contact Us
+    url: /contact-us/

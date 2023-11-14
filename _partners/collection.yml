@@ -1,0 +1,21 @@
+collections:
+  partners:
+    output: true
+    order:
+      - For Parents/.keep
+      - For Parents/Assessment Information.md
+      - For Parents/Administrative Forms.md
+      - For Parents/Financial Assistance Forms.md
+      - For Parents/Family Matters @ Stamford.md
+      - For Parents/Home Based Learning.md
+      - For Parents/Homework Policy.md
+      - For Parents/Monthly Newsletter.md
+      - For Parents/Resources For Parents.md
+      - For Parents/Changes in PSLE.md
+      - For Parents/Sexuality Education.md
+      - Parent Support Group/.keep
+      - Parent Support Group/Parent Support Group.md
+      - Parent Support Group/Parent Support Group Registration.md
+      - School Advisory Committee.md
+      - Student Care Centre.md
+      - School Suppliers.md

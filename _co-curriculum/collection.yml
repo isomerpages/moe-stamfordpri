@@ -1,0 +1,9 @@
+collections:
+  co-curriculum:
+    output: true
+    order:
+      - Co Curricular Activity (CCA).md
+      - Character and Citizenship Education.md
+      - Programme for Active Learning (PAL).md
+      - Learning for Life Programme (LLP).md
+      - Student Leadership.md
